@@ -1,0 +1,11 @@
+html,
+body,
+#border,
+#mod-container {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    user-select: none;
+    overflow: hidden;
+    text-anchor: middle;
+}
