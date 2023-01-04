@@ -3,7 +3,7 @@ Display a single calculated value sized to fill the whole visualization area.
 
 ## Installation & Use
 
-The [Wiki]([https://github.com/tibco/spotfire-mod-list/wiki](https://github.com/tibco/spotfire-mod-displayvalue/wiki)) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
+The [Wiki](https://github.com/tibco/spotfire-mod-displayvalue/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
 
 ## Building the Project
 
