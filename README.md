@@ -1,6 +1,6 @@
 # Display Value Mod for TIBCO Spotfire®
 
-<img src="https://community.tibco.com/servlet/rtaImage?eid=ka64z00000009pE&feoid=00N4z000003259u&refid=0EM4z000003UmQy" alt="Display Value Mod for TIBCO Spotfire®" width="60%">
+<img src="https://community.tibco.com/servlet/rtaImage?eid=ka64z0000008Rtp&feoid=00N4z000003259u&refid=0EM4z000003UmQy" alt="Display Value Mod for TIBCO Spotfire®" width="60%">
 
 Display a single calculated value sized to fill the whole visualization area.
 
