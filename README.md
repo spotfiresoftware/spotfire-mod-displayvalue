@@ -1,5 +1,7 @@
 # Display Value Mod for TIBCO Spotfire®
 
+<img src="assets/displayvalue.png" width="60%"/>
+
 Display a single calculated value sized to fill the whole visualization area.
 
 ## Installation & Use
