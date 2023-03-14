@@ -6,6 +6,8 @@ Display a single calculated value sized to fill the whole visualization area.
 
 ## Installation & Use
 
+[Download latest version](https://github.com/TIBCOSoftware/spotfire-mod-displayvalue/releases)
+
 The [Wiki](https://github.com/TIBCOSoftware/spotfire-mod-displayvalue/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
 
 ## Building the Project
